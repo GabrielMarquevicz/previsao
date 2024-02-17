@@ -3,10 +3,10 @@
 }
 .redondo{
     background-color: white;
-    padding: 30px;
+    padding: 15px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: start;
     border-radius: 30px;
     gap: 10px;
 }
@@ -24,7 +24,8 @@ body{
     justify-content: center;
 }
 .num{
-    font-size: 60px;
+    font-size: 70px;
+    font-family: fantasy;
 }
 .sol{
     display: flex;
@@ -37,7 +38,36 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    gap: 10px;
+    margin-right: 10px;
 }
 .num2{
     font-size: 30px;
+    font-family: fantasy;
+}
+.flex{
+    display: flex;
+    gap: 5px;
+}
+.Quarto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.num3{
+    font-size: 19px;
+    font-family: fantasy;
+}
+.num4{
+    font-size: 19px;
+    font-family: fantasy; 
+}
+.num5{
+    font-size: 19px;
+    font-family: fantasy;
+}
+.vento{
+    margin-top: 10px;
 }
